@@ -112,10 +112,7 @@ ul {
     color: rgb(0, 0, 0);
 }
 
-iframe {
-  display: block;
-  margin: 0 auto;
-}
+
 img {
     font-size: medium;  text-align: center;
    max-width: 100%;
