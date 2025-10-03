@@ -11,7 +11,7 @@ body {
 
 
 header {
-    background-color: #6596DB;
+    background-color: #0cb42b;
     padding: 20px;
     margin: 0px;
     min-height: 19px;
@@ -51,8 +51,8 @@ nav > a {
 }
 
 nav > a:hover {
-    background-color: #7F65DB;
-    color: #2A224A;
+    background-color: #6adb5e;
+    color: #043813;
 }
 
 main {
@@ -70,6 +70,13 @@ main {
 main img {
     width: 100%;
 }
+.imgpro {
+  max-width: 70%;  
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 
 main h1 {
     font-weight: bolder;
@@ -105,12 +112,9 @@ ul {
     color: rgb(0, 0, 0);
 }
 
-.audio {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;            
-  margin: 0; 
+iframe {
+  display: block;
+  margin: 0 auto;
 }
 img {
     font-size: medium;  text-align: center;
@@ -138,7 +142,7 @@ video {
 }
 
 footer {
-    background-color: #3c5c88;
+    background-color: #0cb42b;
     margin: 0px;
     padding: 1px;
 }
